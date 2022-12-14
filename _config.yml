@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "Mercury Leonardo Finnegan"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/profile-pic.jpeg"
   bio    : "An experienced Unity developer."
   links:
     - label: "Linkedin"
@@ -94,6 +94,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # Portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
 
 category_archive:
   type: liquid
@@ -101,3 +108,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
