@@ -8,6 +8,8 @@ layout: single
 author_profile: true
 ---
 
+[Resume Download][1]
+
 # Summary
 
 Over **4 years** of experience **developing games** with **Unity** for both PC and Phones.
@@ -17,7 +19,7 @@ Great desire to handle complicated technological challenges. High drive for deve
 them.
 Participated in several **Hackathons** and **Game jams**. Adheres to **clean code** practices and the **SOLID**
 principles.
-Mentoring teams in 2022 GameJamPlus.
+Mentoring teams in 2022 [GameJamPlus](https://gamejamplus.com/).
 
 # Employment History
 
@@ -41,12 +43,12 @@ build tool that uses Git commands to generate a build version.
 * Fitting app **UI** to multiple screens' **resolution**, from small phones to large iPads.
 * Writing **GDDs** per client's requests.
 
-## Dungeon Sim (Unity-C#)
+## [Dungeon Sim](https://leos-clockworks.itch.io/dungeon-sim) (Unity-C#)
 
-Dungeon Sim is a 3D 3rd Person Action game for the PC, in collaboration with two other indie games.
-Led a team of two programmers and two artists to create the game for Totem.
+Dungeon Sim is a 3D 3rd Person Action game for the PC, in collaboration
+with two other indie games.
+Led a team of two programmers and two artists to create the game for [Totem](https://totem.gdn/bin/view/Main/).
 Developed a **full game** from design to finished product. Received **community feedback** and implemented it.
-Dungeon-Sim Link
 
 ## Unity Developer at Eramorph (Unity-C#)
 
@@ -63,21 +65,30 @@ Dungeon-Sim Link
 
 B.Sc., Software Engineering, Azrieli College of Engineering
 
-## Final Project: AR Motion Matching (Unity-C#)
+## [Final Project: AR Motion Matching](https://www.youtube.com/watch?v=F8Pp49qUrH4&ab_channel=Leos-Clockworks) (Unity-C#)
 
 An app that aims to help athletes improve technique.
-By using **augmented reality** to scan the user's
-movement and compare it using a dedicated comparison algorithm to give feedback with corrections to the
+By using **augmented reality** to scan the user's movement and compare it using a dedicated comparison algorithm to give
+feedback with corrections to the
 performed movement.
 
 # Skills
 
-| Language | Unity              | Version Control |
-|----------|:-------------------|-----------------|
-| C#       | Assets             | Git             |
-| Python   | Addressables       | Plastic SCM     |
-| Java     | Input System       |                 |
-|          | URP & HDRP         |                 |
-|          | Scriptable Objects |                 |
+## Professional skills
 
+| Unity              | Language | Version Control | AWS     | Misc                |
+|--------------------|----------|-----------------|---------|---------------------|
+| Assets             | C#       | Git (Hub/Lab)   | Cognito | Googling            |
+| Scriptable Objects | Python   | Plastic SCM     | S3      | Augmented Reality   |
+| Input System       | Java     |                 | IAM     | System Architecture |
+| URP & HDRP         |          |                 |         | Unit Testing        |
+| Adressables        |          |                 |         | GraphQL             |
 
+## Hobbies
+
+* Black belt in Taekwondo
+* Creating games
+* Writer
+* Artist
+
+[1]:/assets/downloadable/MercuryFinneganResume.pdf
