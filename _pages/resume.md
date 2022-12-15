@@ -8,7 +8,7 @@ layout: single
 author_profile: true
 ---
 
-[Resume Download][1]
+[Resume Download][Resume]
 
 # Summary
 
@@ -17,9 +17,9 @@ Strong problem-solving and creative thinking with great interpersonal relations.
 Proven work experience on a multitude of projects and various frameworks.
 Great desire to handle complicated technological challenges. High drive for developing new concepts and implementing
 them.
-Participated in several **Hackathons** and **Game jams**. Adheres to **clean code** practices and the **SOLID**
+Participated in several **Hackathons** and **Game jams**. Adheres to **Clean Code** practices and the **SOLID**
 principles.
-Mentoring teams in 2022 [GameJamPlus](https://gamejamplus.com/).
+Mentoring teams in 2022 [GameJamPlus][JamPlus].
 
 # Employment History
 
@@ -43,11 +43,11 @@ build tool that uses Git commands to generate a build version.
 * Fitting app **UI** to multiple screens' **resolution**, from small phones to large iPads.
 * Writing **GDDs** per client's requests.
 
-## [Dungeon Sim](https://leos-clockworks.itch.io/dungeon-sim) (Unity-C#)
+## [Dungeon Sim][Dungeon] (Unity-C#)
 
 Dungeon Sim is a 3D 3rd Person Action game for the PC, in collaboration
 with two other indie games.
-Led a team of two programmers and two artists to create the game for [Totem](https://totem.gdn/bin/view/Main/).
+Led a team of two programmers and two artists to create the game for [Totem][Totem].
 Developed a **full game** from design to finished product. Received **community feedback** and implemented it.
 
 ## Unity Developer at Eramorph (Unity-C#)
@@ -65,7 +65,7 @@ Developed a **full game** from design to finished product. Received **community 
 
 B.Sc., Software Engineering, Azrieli College of Engineering
 
-## [Final Project: AR Motion Matching](https://www.youtube.com/watch?v=F8Pp49qUrH4&ab_channel=Leos-Clockworks) (Unity-C#)
+## [Final Project: AR Motion Matching][ARmm] (Unity-C#)
 
 An app that aims to help athletes improve technique.
 By using **augmented reality** to scan the user's movement and compare it using a dedicated comparison algorithm to give
@@ -91,4 +91,9 @@ performed movement.
 * Writer
 * Artist
 
-[1]:/assets/downloadable/MercuryFinneganResume.pdf
+[Resume]:/assets/downloadable/MercuryFinneganResume.pdf
+[ARmm]:https://www.youtube.com/watch?v=F8Pp49qUrH4&ab_channel=Leos-Clockworks
+[Dungeon]:https://leos-clockworks.itch.io/dungeon-sim
+[Totem]:https://totem.gdn/bin/view/Main/
+[JamPlus]:https://gamejamplus.com/
+
