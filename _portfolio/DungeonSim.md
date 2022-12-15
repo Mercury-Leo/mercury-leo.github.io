@@ -2,8 +2,8 @@
 title: "Dungeon Sim"
 excerpt: "A 3D 3rd Person Action Roguelike for the PC."
 header: ""
-image: /assets/portfolio/dungeonSim/titlecard.png
-teaser: /assets/portfolio/dungeonSim/titlecard.png
+image: /assets/portfolio/dungeonSim/titlecard.jpg
+teaser: /assets/portfolio/dungeonSim/titlecard.jpg
 youtubeId: hTFnMl8wbdc
 sidebar:
 
