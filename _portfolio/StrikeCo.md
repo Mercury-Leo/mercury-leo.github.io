@@ -1,26 +1,26 @@
 ---
 title: "StrikeCo"
-excerpt: "A tennis game."
+excerpt: "A Tennis game."
 header:
-image: /assets/images/foo-bar-identity.jpg
-teaser: /assets/images/foo-bar-identity-th.jpg
+  teaser: /assets/portfolio/strikeco/BeatTennisTitle.png
 sidebar:
 
 - title: "Role"
-  image: http://placehold.it/350x250
-  image_alt: "logo"
-  text: "Designer, Front-End Developer"
+  text: "Unity Developer"
 - title: "Responsibilities"
-  text: "Reuters try PR stupid commenters should isn't a business model"
-  gallery:
-- url: /assets/images/unsplash-gallery-image-1.jpg
-  image_path: assets/images/unsplash-gallery-image-1-th.jpg
-  alt: "placeholder image 1"
-- url: /assets/images/unsplash-gallery-image-2.jpg
-  image_path: assets/images/unsplash-gallery-image-2-th.jpg
-  alt: "placeholder image 2"
-- url: /assets/images/unsplash-gallery-image-3.jpg
-  image_path: assets/images/unsplash-gallery-image-3-th.jpg
-  alt: "placeholder image 3"
+  text: "Develop features by product's demands"
 
 ---
+
+StrikeCo are creating different Tennis Games and training programs.
+
+{% include video id="-tXXAnNrXak" provider="youtube" %}
+
+#### Things I did
+- UI in menus: Profile section, Scroller in category
+- Loading screen: Loads a scene and caches it for faster loading if opened again. Also, the loading UI
+- BeatTennis: A rhythm game based on Tennis
+  - Ball spawns are connected to song selected
+  - UI for song selection
+  - Rewrote architecture of the game 
+- Created features per client's demands

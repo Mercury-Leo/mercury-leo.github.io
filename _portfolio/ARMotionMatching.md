@@ -1,26 +1,27 @@
 ---
 title: "AR Motion Matching"
-excerpt: "Degree final project, using Augmented reality to scan user's movement."
+excerpt: "Degree's final project, using Augmented reality to scan user's movement."
 header:
-image: /assets/images/foo-bar-identity.jpg
-teaser: /assets/images/foo-bar-identity-th.jpg
+  teaser: /assets/portfolio/armm/logo_empty.png
 sidebar:
 
 - title: "Role"
   image: http://placehold.it/350x250
   image_alt: "logo"
-  text: "Designer, Front-End Developer"
+  text: "Unity Developer"
 - title: "Responsibilities"
-  text: "Reuters try PR stupid commenters should isn't a business model"
-  gallery:
-- url: /assets/images/unsplash-gallery-image-1.jpg
-  image_path: assets/images/unsplash-gallery-image-1-th.jpg
-  alt: "placeholder image 1"
-- url: /assets/images/unsplash-gallery-image-2.jpg
-  image_path: assets/images/unsplash-gallery-image-2-th.jpg
-  alt: "placeholder image 2"
-- url: /assets/images/unsplash-gallery-image-3.jpg
-  image_path: assets/images/unsplash-gallery-image-3-th.jpg
-  alt: "placeholder image 3"
+  text: "Creating the idea, getting it approved and developing it until its completed."
 
 ---
+
+An app that aims to help athletes improve technique. By using augmented reality to scan the user's movement and compare
+it using a dedicated comparison algorithm to give feedback with corrections to the performed movement.
+
+{% include video id="F8Pp49qUrH4" provider="youtube" %}
+
+#### Things I did
+
+- Coming up with the initial idea
+- Wrote an academic paper on the project
+- Creating the app with Unity
+- Tested the app on a multitude of users

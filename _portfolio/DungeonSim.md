@@ -1,10 +1,22 @@
 ---
 title: "Dungeon Sim"
 excerpt: "A 3D 3rd Person Action Roguelike for the PC."
-header: ""
-image: /assets/portfolio/dungeonSim/titlecard.jpg
-teaser: /assets/portfolio/dungeonSim/titlecard.jpg
+header:
+  teaser: /assets/portfolio/dungeonSim/titlecard.jpg
+
 youtubeId: hTFnMl8wbdc
+gallery:
+
+- url: /assets/portfolio/dungeonSim/homescreen.jpg
+  image_path: /assets/portfolio/dungeonSim/homescreen.jpg
+  alt: "Home Screen Image"
+- url: /assets/portfolio/dungeonSim/selectionscreen.jpg
+  image_path: /assets/portfolio/dungeonSim/selectionscreen.jpg
+  alt: "Selection Screen Image"
+- url: /assets/portfolio/dungeonSim/playable.jpg
+  image_path: /assets/portfolio/dungeonSim/playable.jpg
+  alt: "Playing Screen Image"
+
 sidebar:
 
 - title: "Role"
@@ -16,21 +28,41 @@ sidebar:
 
 ---
 
-[Dungeon Sim][Dungeon] is a 3D 3rd Person Action Roguelike for the PC.
+[Dungeon Sim] is a 3D 3rd Person Action Roguelike for the PC.
 
-Dungeon Sim was a project created for [Totem], and by so, collaborating with two other games to add content to the game.
+In Dungeon Sim, waves of monsters attacks the player, the player must survive all the waves while protecting civilians.
 
 ### Game Play Video
-{% include youtubePlayer.html id=page.youtubeId %}
 
-{% include image-gallery.html folder="/assets/portfolio/dungeonSim" %}
+{% include video id="hTFnMl8wbdc" provider="youtube" %}
 
-[Dungeon]:https://leos-clockworks.itch.io/dungeon-sim
+{% include gallery %}
 
-[home]:/assets/portfolio/dungeonSim/homescreen.jpg
+#### Things I did
 
-[play]:/assets/portfolio/dungeonSim/playable.jpg
+- Designed the games architecture and implemented it
+- Led a team of two programmers & two designers
+- Wrote the GDD
+- Received community feedback and implemented it
+- Maintained the repository and tasks
 
-[selection]:/assets/portfolio/dungeonSim/selectionscreen.jpg
+##### Powered by [Totem]
+
+Dungeon Sim is powered by Totem, meaning you can log in using your Totem account and have your own personal Avatar and
+choice of weapons in the game.
+
+Also, every achievement you earn in the game, can be shared by other games using Totem, and affect them in different
+ways.
+
+Dungeon Sim is connected to two other Totem games:
+
+1. [Frieseria], once you completed the game, you will notice a difference in the health drops.
+2. [Island Ambush], once you completed the game, you will receive a second life from the island.
+
+[Dungeon Sim]:https://leos-clockworks.itch.io/dungeon-sim
 
 [Totem]:https://totem.gdn/bin/view/Main/
+
+[Frieseria]:https://adamkormos.itch.io/frieseria
+
+[Island Ambush]:https://judgegames.itch.io/island-ambush

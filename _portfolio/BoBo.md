@@ -2,25 +2,36 @@
 title: "BoBo-Balance"
 excerpt: "Physical Therapy solutions"
 header:
-image: /assets/images/foo-bar-identity.jpg
-teaser: /assets/images/foo-bar-identity-th.jpg
+  teaser: /assets/portfolio/bobo/boboLogo.png
 sidebar:
 
 - title: "Role"
-  image: http://placehold.it/350x250
-  image_alt: "logo"
-  text: "Designer, Front-End Developer"
+  text: "Unity Developer"
 - title: "Responsibilities"
-  text: "Reuters try PR stupid commenters should isn't a business model"
-  gallery:
-- url: /assets/images/unsplash-gallery-image-1.jpg
-  image_path: assets/images/unsplash-gallery-image-1-th.jpg
-  alt: "placeholder image 1"
-- url: /assets/images/unsplash-gallery-image-2.jpg
-  image_path: assets/images/unsplash-gallery-image-2-th.jpg
-  alt: "placeholder image 2"
-- url: /assets/images/unsplash-gallery-image-3.jpg
-  image_path: assets/images/unsplash-gallery-image-3-th.jpg
-  alt: "placeholder image 3"
+  text: "Develop features by product's demands"
+
+gallery:
+- url: /assets/portfolio/bobo/boboexercisescreen.jpg
+  image_path: /assets/portfolio/bobo/boboexercisescreen.jpg
+  alt: "Exercise Screen"
+- url: /assets/portfolio/bobo/boboNewExercise.png
+  image_path: /assets/portfolio/bobo/boboNewExercise.png
+  alt: "Exercise"
+- url: /assets/portfolio/bobo/boboSelect.jpg
+  image_path: /assets/portfolio/bobo/boboSelect.jpg
+  alt: "Protocol"
 
 ---
+
+[2]:/assets/portfolio/bobo/boboLogo.png
+
+BoBo Balance makes physical therapy products.
+
+{% include video id="VxJS_epGFsA" provider="youtube" %}
+
+{% include gallery %}
+
+#### What I did
+
+- Created various UIs based on specification received from design team
+- Created a drag & drop system for mouse & touch to rearrange items
