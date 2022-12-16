@@ -34,4 +34,4 @@ BoBo Balance makes physical therapy products.
 #### What I did
 
 - Created various UIs based on specification received from design team
-- Created a drag & drop system for mouse & touch to rearrange items
+- Created a drag and drop system for mouse & touch to rearrange items

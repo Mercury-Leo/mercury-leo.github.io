@@ -40,7 +40,7 @@ In Dungeon Sim, waves of monsters attacks the player, the player must survive al
 
 #### Things I did
 
-- Designed the games architecture and implemented it
+- Designed the game's architecture and implemented it
 - Led a team of two programmers & two designers
 - Wrote the GDD
 - Received community feedback and implemented it
