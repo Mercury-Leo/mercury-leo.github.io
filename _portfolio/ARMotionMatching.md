@@ -6,7 +6,7 @@ header:
 sidebar:
 
 - title: "Role"
-  image: http://placehold.it/350x250
+  image: /assets/portfolio/armm/logo_empty.png
   image_alt: "logo"
   text: "Unity Developer"
 - title: "Responsibilities"
