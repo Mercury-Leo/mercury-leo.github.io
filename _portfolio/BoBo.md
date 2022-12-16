@@ -1,6 +1,6 @@
 ---
 title: "BoBo-Balance"
-excerpt: "Physical Therapy solutions"
+excerpt: "Physical Therapy solutions."
 header:
   teaser: /assets/portfolio/bobo/boboLogo.png
 sidebar:
