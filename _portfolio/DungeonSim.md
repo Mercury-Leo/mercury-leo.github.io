@@ -1,32 +1,8 @@
 ---
-title: "Dungeon Sim"
-excerpt: "A 3D 3rd Person Action Roguelike for the PC."
-header:
-  teaser: /assets/portfolio/dungeonSim/titlecard.jpg
-
-youtubeId: hTFnMl8wbdc
-gallery:
-
-- url: /assets/portfolio/dungeonSim/homescreen.jpg
-  image_path: /assets/portfolio/dungeonSim/homescreen.jpg
-  alt: "Home Screen Image"
-- url: /assets/portfolio/dungeonSim/selectionscreen.jpg
-  image_path: /assets/portfolio/dungeonSim/selectionscreen.jpg
-  alt: "Selection Screen Image"
-- url: /assets/portfolio/dungeonSim/playable.jpg
-  image_path: /assets/portfolio/dungeonSim/playable.jpg
-  alt: "Playing Screen Image"
-
-sidebar:
-
-- title: "Role"
-  image: /assets/portfolio/dungeonSim/DungeonSimLogo.png
-  image_alt: "logo"
-  text: "Tech Lead, Project owner"
-- title: "Responsibilities"
-  text: "Developed the full game from GDD to final product while leading a small team."
 
 ---
+
+## DungeonSim (Unity-C#)
 
 [Dungeon Sim] is a 3D 3rd Person Action Roguelike for the PC.
 
@@ -38,7 +14,7 @@ In Dungeon Sim, waves of monsters attacks the player, the player must survive al
 
 {% include gallery %}
 
-#### Things I did
+### Things I did
 
 - Designed the game's architecture and implemented it
 - Led a team of two programmers & two designers
@@ -46,7 +22,7 @@ In Dungeon Sim, waves of monsters attacks the player, the player must survive al
 - Received community feedback and implemented it
 - Maintained the repository and tasks
 
-##### Powered by [Totem]
+### Powered by [Totem]
 
 Dungeon Sim is powered by Totem, meaning you can log in using your Totem account and have your own personal Avatar and
 choice of weapons in the game.

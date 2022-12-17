@@ -22,7 +22,7 @@ minimal_mistakes_skin: dark
 search: false
 
 # Build settings
-markdown: kramdown
+markdown: pandoc
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
@@ -53,6 +53,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-pandoc
 
 author:
   name   : "Mercury Leonardo Finnegan"
@@ -95,12 +96,7 @@ defaults:
       layout: single
       author_profile: true
   # Portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: false
+
 
 category_archive:
   type: liquid
@@ -110,6 +106,5 @@ tag_archive:
   path: /tags/
 
 collections:
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+  - portfolio
+
