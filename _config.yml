@@ -56,9 +56,9 @@ plugins:
   - jekyll-pandoc
 
 author:
-  name   : "Mercury Leonardo Finnegan"
-  avatar : "/assets/images/profile-pic.jpeg"
-  bio    : "An experienced Unity developer."
+  name: "Mercury Leonardo Finnegan"
+  avatar: "/assets/images/profile-pic.jpeg"
+  bio: "Unity Developer with 4 years of experience. Always looking to stay up to date with the latest technologies and techniques. Love to write posts about various programming subjects."
   links:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
