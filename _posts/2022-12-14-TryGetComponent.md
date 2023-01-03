@@ -18,10 +18,9 @@ TryGetComponent works the same as the normal GetComponent but will not allocate 
 exist.
 
 ### Different uses:
+* Declaring a variable allows to not express which type is being searched for.
 
-1. Declaring a variable allows to not express which type is being searched for.
-
-```c#
+```C#
 private Image _image;
 
 private void Awake()
@@ -29,8 +28,7 @@ private void Awake()
 	TryGetComponent(out _image);
 }
 ```
-
-2. When not declaring a variable, the type T that is searched for, must be expressed.
+* When not declaring a variable, the type T that is searched for, must be expressed.
 
 ```C#
 private void Awake()
@@ -45,8 +43,7 @@ private void Awake()
 	TryGetComponent(out TMP_Text _text);
 }
 ```
-
-3. Can be used to check if the search was successful and perform some logic on that.
+* Can be used to check if the search was successful and perform some logic on that.
 
 ```C#
 private void Awake()
