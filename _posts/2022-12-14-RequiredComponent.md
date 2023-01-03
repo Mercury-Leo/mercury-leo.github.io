@@ -16,6 +16,8 @@ This process can break the flow of creating and in general be cumbersome.
 Unity has a very simple attribute that can save a lot of time:
 `'RequireComponent'`
 
+`[RequireComponent(typeof(someType))]`
+
 Require Component is an attribute that automatically adds components as dependencies.
 What does that mean? We can decide what components are required for our script, and this has two major advantages:
 
