@@ -17,46 +17,15 @@ By using `TryGetComponent<T>` we can eliminate the editor allocation.
 TryGetComponent works the same as the normal GetComponent but will not allocate in the editor when a component doesn't
 exist.
 
-### Different uses:
-* Declaring a variable allows to not express which type is being searched for.
+GetComponent will also throw an expectation if the requested component is not found, while TryGetComponent will just return null. So, the usage depends on personal preference, some people may want to get an exception when a component is not found and other people may want to handle that exception themselves.
 
-```C#
-private Image _image;
+*There are cases where TryGetComponent doesn't work, for example when using the Null-Coalescing operator, where only GetComponent can be used.
 
-private void Awake()
-{
-	TryGetComponent(out _image);
-}
-```
-* When not declaring a variable, the type T that is searched for, must be expressed.
-
-```C#
-private void Awake()
-{
-	TryGetComponent<TMP_Text>(out var _text);
-}
-
-// Or
-
-private void Awake()
-{
-	TryGetComponent(out TMP_Text _text);
-}
-```
-* Can be used to check if the search was successful and perform some logic on that.
-
-```C#
-private void Awake()
-{
-	if(TryGetComponent<Image>(out var _image))
-	{
-		// Some Logic
-	}
-}
-```
+![Image](/assets/posts/TryGetComponents.png)
 
 Available from Unity version: 2019.2
 
 For further reading:
 
 [TryGetComponent](https://docs.unity3d.com/ScriptReference/Component.TryGetComponent.html)
+[NullCoalescing](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/null-coalescing-operator)
