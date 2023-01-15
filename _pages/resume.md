@@ -29,7 +29,7 @@ Created a unique **rhythm game** that utilizes a **real-world robot** fitted wit
 Players hit the ball in time with the rhythm of any song, converted into beats represented by the tennis ball on the
 screen.
 
-### [BoBo Balance](/portfolio)
+### BoBo Balance
 
 Developed screens according to design team specifications and adjusted them per **client feedback**. Created an
 automated
