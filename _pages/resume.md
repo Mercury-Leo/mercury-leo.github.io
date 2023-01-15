@@ -12,14 +12,12 @@ author_profile: true
 
 # Summary
 
-Over **4 years** of experience **developing games** with **Unity** for both PC and Phones.
-Strong problem-solving and creative thinking with great interpersonal relations.
-Proven work experience on a multitude of projects and various frameworks.
-Great desire to handle complicated technological challenges. High drive for developing new concepts and implementing
-them.
-Participated in several **Hackathons** and **Game jams**. Adheres to **Clean Code** practices and the **SOLID**
-principles.
-Mentoring teams in 2022 [GameJamPlus][JamPlus].
+Over **4 years** of experience as a **Unity developer**, creating games for PC and mobile. Proven ability to solve
+complex
+problems and think creatively. Strong interpersonal skills and experience working on multiple projects and frameworks.
+Successfully developed and implemented new concepts in past projects. Adept in following **clean coding practices** and
+**SOLID** principles. Participated in several **hackathons** and **game jams**. **Mentored** teams in the
+2022 [GameJamPlus][JamPlus].
 
 # Employment History
 
@@ -27,37 +25,36 @@ Mentoring teams in 2022 [GameJamPlus][JamPlus].
 
 ### StrikeCo
 
-Created a **rhythm game** that receives input from a **real-world robot** that has a tennis ball attached to it.
-The game converts any song to beats, represented by
-tennis balls that the player must hit on a real-life robot timed with the song's rhythm.
+Created a unique **rhythm game** that utilizes a **real-world robot** fitted with a tennis ball as an **input device**.
+Players hit the ball in time with the rhythm of any song, converted into beats represented by the tennis ball on the
+screen.
 
 ### BoBo Balance
 
-Created screens by design team's requirements and adjusted them according to the **client's feedback**. Made an
+Developed screens according to design team specifications and adjusted them per **client feedback**. Created an
 automated
-build tool that uses Git commands to generate a build version.
+build tool utilizing **Git** commands to generate versioned builds.
 
-### Working with several companies to deliver reliable solutions
+### Providing dependable solutions working with various clients
 
-* Working with a team of developers to deliver updates to an existing app under **short sprints**.
-* Fitting app **UI** to multiple screens' **resolution**, from small phones to large iPads.
-* Writing **GDDs** per client's requests.
+* Collaborating with a team of developers to deliver app updates in short **sprints**.
+* Adapting app **UI** for various screen **resolutions**, including small phones and large iPads.
+* Creating **GDDs** per client's requirements.
 
-## [Dungeon Sim][Dungeon] (Unity-C#)
+## Lead Programmer for [Dungeon Sim][Dungeon] (Unity-C#)
 
-Dungeon Sim is a 3D 3rd Person Action game for the PC, in collaboration
-with two other indie games.
-Led a team of two programmers and two artists to create the game for [Totem][Totem].
-Developed a **full game** from design to finished product. Received **community feedback** and implemented it.
+Led a team of 2 programmers and 2 artists in creating "Dungeon Sim", a 3D 3rd person action game for PC, in
+collaboration with two other indie games. Overseen development from design to **final product**, incorporating *
+*feedback**
+for improvements from the **community**. "Dungeon Sim" was created for [Totem].
 
 ## Unity Developer at Eramorph (Unity-C#)
 
-* Planned several features from **architecture** to development and support. Implemented varied **design patterns** by
-  need.
-* **Integrated** 3rd party apps (Instagram, Facebook, Google, Monday) to product, using **GraphQL** via their APIs. (
-  Python &
-  C#)
-* Worked on product from backend (**AWS**) to frontend.
+* Developed and executed plans for various features, from **architecture** to deployment and maintenance, utilizing
+  appropriate **design patterns** as necessary.
+* **Integrated** 3rd party apps (Instagram, Facebook, Google, Monday) into product, using **GraphQL** via their APIs.
+  (Python & C#)
+* Involved in product development from backend (**AWS**) to frontend.
 
 ## Student Developer at Intel Corporation (C#)
 
@@ -76,13 +73,14 @@ performed movement.
 
 ## Professional skills
 
-| Unity              | Language | Version Control | AWS     | Misc                |
-|--------------------|----------|-----------------|---------|---------------------|
-| Assets             | C#       | Git (Hub/Lab)   | Cognito | Googling            |
-| Scriptable Objects | Python   | Plastic SCM     | S3      | Augmented Reality   |
-| Input System       | Java     |                 | IAM     | System Architecture |
-| URP & HDRP         |          |                 |         | Unit Testing        |
-| Adressables        |          |                 |         | GraphQL             |
+| Unity                        | Language | Version Control | AWS     | Misc                |
+|------------------------------|----------|-----------------|---------|---------------------|
+| Assets                       | C#       | Git (Hub/Lab)   | Cognito | Googling            |
+| Scriptable Objects           | Python   | Plastic SCM     | S3      | Augmented Reality   |
+| Input System                 | Java     |                 | IAM     | System Architecture |
+| URP & HDRP                   |          |                 |         | Unit Testing        |
+| Adressables                  |          |                 |         | GraphQL             |
+| AR Foundation (ARCore/ARKit) |          |                 |         |                     |
 
 ## Hobbies
 
@@ -92,8 +90,12 @@ performed movement.
 * Artist
 
 [Resume]:/assets/downloadable/MercuryFinneganResume.pdf
+
 [ARmm]:https://www.youtube.com/watch?v=F8Pp49qUrH4&ab_channel=Leos-Clockworks
+
 [Dungeon]:https://leos-clockworks.itch.io/dungeon-sim
+
 [Totem]:https://totem.gdn/bin/view/Main/
+
 [JamPlus]:https://gamejamplus.com/
 
