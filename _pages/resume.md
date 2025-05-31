@@ -12,7 +12,7 @@ author_profile: true
 
 # Summary
 
-Over **4 years** of experience as a **Unity developer**, creating games for PC and mobile. Proven ability to solve
+Over **6 years** of experience as a **Unity developer**, creating games for PC and mobile. Proven ability to solve
 complex
 problems and think creatively. Strong interpersonal skills and experience working on multiple projects and frameworks.
 Successfully developed and implemented new concepts in past projects. Adept in following **clean coding practices** and
@@ -89,7 +89,7 @@ performed movement.
 * Writer
 * Artist
 
-[Resume]:/assets/downloadable/MercuryFinneganResume.pdf
+[Resume]:/assets/downloadable/Mercury%20Finnegan%20-%20Senior%20Unity%20Developer%20CV.pdf
 
 [ARmm]:https://www.youtube.com/watch?v=F8Pp49qUrH4&ab_channel=Leos-Clockworks
 

@@ -30,8 +30,55 @@ ds_gallery:
 - url: /assets/portfolio/dungeonSim/playable.jpg
   image_path: /assets/portfolio/dungeonSim/playable.jpg
   alt: "Playing Screen Image"
+  
+oversight_gallery:
+  
+- url: /assets/portfolio/oversight/itsec-standing.jpg
+  image_path: /assets/portfolio/oversight/itsec-standing.jpg
+  alt: "ITSEC 2024"
+- url: /assets/portfolio/oversight/germany-explaining.jpeg
+  image_path: /assets/portfolio/oversight/germany-explaining.jpeg
+  alt: "Showcasing"
+- url: /assets/portfolio/oversight/germany-stand.jpeg
+  image_path: /assets/portfolio/oversight/germany-explaining.jpeg
+  alt: "Stand"
 
 ---
+
+## Oversight (Unity-C#)
+
+[Oversight] helps emergency response teams by leveraging Augmented-Reality to better prepare for life-and-death situations.
+
+### Preview Video
+
+{% include video id="HAjFkXGO9KE" provider="youtube" %}
+
+{% include gallery id="oversight_gallery" %}
+
+### My Contributions
+
+- Tech Team Lead
+  - **Collaborated** with **Product Managers** to define and prioritize features
+  - **Presented** the product at **international expos**
+  - **Coordinated** different teams (Unity, Backend, DevOps)
+  - Planned short **sprints** and delegated tasks
+  - Set **coding standards** and unified c# style guide
+- Senior Software Engineer
+  - **Refactored** the project amd set current working standards
+  - **Addressables**
+    - Moved all 3D models into the addressables system
+    - Loading and unloading models by **demand**
+    - Slashed peak RAM by **60%**. Cut startup time.
+  - Developed and maintained a separate Unity product
+  - Created **Editor tools** for development and DevOps
+  - Used Netcode For GameObjects to provide a multiplayer experience
+  - **Optimized** the product to run on limit hardware (Hololens 2)
+  - **Containerized** the product and run in using **Docker**
+  - Redesigned UI using the **UIToolkit** and set-up standards for creating new UI
+  - Added cloud support for the product
+
+
+
 
 ## StrikeCo (Unity-C#)
 
@@ -111,6 +158,7 @@ Dungeon Sim is connected to two other Totem games:
 
 [Island Ambush]:https://judgegames.itch.io/island-ambush
 
+[Oversight]: https://oversight-ar.com/
 
 
 ## AR Motion Matching (Unity-C#)
